@@ -26,7 +26,7 @@ The designs were created to the following widths:
 
 ### Body Copy
 
-- Font size (form inputs): 24px
+- Font size (form inputs): 24px 
 
 ### Font
 
